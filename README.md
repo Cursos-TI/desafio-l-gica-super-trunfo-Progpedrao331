@@ -1,4 +1,4 @@
-# Super Trunfo em C - Desafio Nível Novato (Versão Interativa)
+# Super Trunfo em C - Desafio Nível Aventureiro
 
 ## Funcionalidades
 
